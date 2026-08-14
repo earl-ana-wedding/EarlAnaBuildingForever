@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roland Ana Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:roland-ana-2026@wedding
+DTSTAMP:20260101T000000Z
+DTSTART:20261212T153000
+DTEND:20261212T220000
+SUMMARY:Wedding of Roland Earl & Ana Marie
+LOCATION:Le Jardin De Teodoro at San Rafael River Adventure\, San Rafael\, Bulacan
+DESCRIPTION:We joyfully invite you to share in our celebration of love and commitment.
+END:VEVENT
+END:VCALENDAR
